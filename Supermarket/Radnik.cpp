@@ -25,7 +25,7 @@ string Radnik::getPrezime() { return prezime; }
 string Radnik::getIme() { return ime; }
 
 void Radnik::printR(){
-    cout<<"Ime: imo "<<ime<<endl;
+    cout<<"Ime: "<<ime<<endl;
     cout<<"Prezime: "<<prezime<<endl;
     cout<<"JMBG: "<<JMBG<<endl;
 
