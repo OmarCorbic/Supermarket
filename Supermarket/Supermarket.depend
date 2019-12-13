@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1574974552 source:c:\projekt\supermarket\radnik.cpp
+	"Radnik.h"
+	<iostream>
+	<string>
+
+1574974578 c:\projekt\supermarket\radnik.h
+	<string>
+
+1575015686 source:c:\projekt\supermarket\main.cpp
+	"Radnik.h"
+	<iostream>
+	<string>
+	<map>
+	"Funkcije.h"
+
+1575016094 source:c:\projekt\supermarket\funkcije.cpp
+	"Radnik.h"
+	<iostream>
+	<string>
+	<map>
+	"Funkcije.h"
+
+1575015912 c:\projekt\supermarket\funkcije.h
+
+1576160971 source:c:\programiranje\projekt\supermarket\funkcije.cpp
+	"Radnik.h"
+	<iostream>
+	"Artikal.h"
+	<string>
+	<map>
+	"Funkcije.h"
+
+1576010310 c:\programiranje\projekt\supermarket\radnik.h
+	<string>
+
+1576014488 c:\programiranje\projekt\supermarket\funkcije.h
+
+1576014337 source:c:\programiranje\projekt\supermarket\main.cpp
+	"Radnik.h"
+	"Artikal.h"
+	<iostream>
+	<string>
+	<map>
+	"Funkcije.h"
+
+1575555652 source:c:\programiranje\projekt\supermarket\radnik.cpp
+	"Radnik.h"
+	<iostream>
+	<string>
+
+1575749981 source:c:\programiranje\projekt\supermarket\artikal.cpp
+	"Artikal.h"
+	<iostream>
+	<string>
+
+1575563135 c:\programiranje\projekt\supermarket\artikal.h
+	<iostream>
+
